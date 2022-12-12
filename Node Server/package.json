@@ -27,7 +27,7 @@
     "cors": "^2.8.5",
     "css-loader": "^3.2.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ibm-cloud-env": "^0.2.6",
     "ibm-watson": "^5.2.0",
     "mongoose": "^5.7.12",
